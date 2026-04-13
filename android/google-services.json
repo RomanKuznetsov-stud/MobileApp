@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421779654133",
+    "project_id": "to-do-reminder-lab4",
+    "storage_bucket": "to-do-reminder-lab4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421779654133:android:c73fd069720bcf2e890cbc",
+        "android_client_info": {
+          "package_name": "com.ztu.pushnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJFrIx-f67vRCsHXxFGRXzQ38Hd3pNUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
